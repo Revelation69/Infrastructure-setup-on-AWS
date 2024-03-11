@@ -1,0 +1,2 @@
+eks-infra/.terraform.lock.hcl
+eks-infra/.terraform/*
